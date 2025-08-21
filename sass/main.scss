@@ -108,7 +108,7 @@ li {
 }
 
 .feature {
-  background-image: url("/images/wood-desk-mac-water.jpg");
+  background-image: url("/images/omega-background.jpg");
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -120,11 +120,11 @@ li {
 }
 
 .feature .blog-title {
-  color: white;
+  color: var(--link-color);
   padding: 0 20px;
   background-color: rgba(32, 32, 32, 0.5);
   font:
-    normal 500 2.5em "Rock Salt",
+    normal 500 2.5em "Audiowide",
     cursive;
   line-height: 150%;
   text-align: center;
