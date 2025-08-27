@@ -11,7 +11,7 @@
           class="feature"
           style="
             background-image: url(&quot;/images/omega-background.jpeg&quot;);
-            background-position: 0px -180px;
+            background-position: 0px -80px;
           "
         >
           <div class="feature-title-box">
@@ -24,7 +24,13 @@
       </div>
     </div>
     <div class="container">
-      <main id="main-content">{{ page.content | safe }}</main>
+      <main id="main-content">
+        {% if section is defined and section.content is defined %}
+          {{ section.content | safe }}
+        {% else %}
+          {{ page.content | safe }}
+        {% endif %}
+      </main>
       <aside></aside>
 
       {% include "base/site-footer.html" %}

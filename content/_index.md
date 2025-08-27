@@ -1,3 +1,6 @@
 +++
-redirect_to = "en/home"
+template = "hu_index.html"
+title = "Üdvözlet"
 +++
+
+# Omega Alfa Tervező

@@ -6,18 +6,15 @@
   {% if (section.extra.lang is defined and section.extra.lang == "en") or
   (page.extra.lang is defined and page.extra.lang == "en") %}
   <ul>
-    <li><a href="/en/blog">blog</a></li>
-    <li><a href="/en/home">home</a></li>
+    <li><a href="/en/">welcome</a></li>
   </ul>
   {% else %}
   <ul>
-    <li><a href="/hu/about">magamról</a></li>
-    <li><a href="/hu/projects">projektjeim</a></li>
-    <li><a href="/hu/hobby">hobbi</a></li>
+    <li><a href="/">magunkról</a></li>
   </ul>
   {% endif %}
   <span id="toggle-lang"
     ><a href="/en/"><img src="/icons/uk.png" /></a
-    ><a href="/hu/"><img src="/icons/hun.png" /></a
+    ><a href="/"><img src="/icons/hun.png" /></a
   ></span>
 </nav>
