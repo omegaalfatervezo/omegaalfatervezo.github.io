@@ -16,3 +16,10 @@ hogy megfelel-e kinézetileg és a formátum is rendben van.
 - content - a markdown file-ok, amik egy template-tel jelenítik meg magukat
 - static - ezek a file-ok a /-ba másolódnak, és direktben elérhetőek
 - templates - ez a template-k helye
+
+## Tennivalók
+
+- az aktuális menüpontot highlight-olni a navbar-ban
+- háttérszín és egy jobb banner kép beállítása
+- éjszakai és nappali mód dizájn színek hiányoznak
+- favicon hiányzik és a logo

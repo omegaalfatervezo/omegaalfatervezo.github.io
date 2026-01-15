@@ -20,4 +20,5 @@ gyártást 3D nyomtatással, 3D szkennelést és térformázó szerszámok terve
 gyártatását. A kooperatív munkák a megfelelő kapcsolati tőkét felhasználva a
 partnereimnél is elkészíthetőek.
 
-Ha a tervezéssel és gyártással kapcsolatban kérdései merülnek fel, a válaszokat remélem megtalálja a [kérdések](/hu/questions) menüpontban.
+Ha a tervezéssel és gyártással kapcsolatban kérdései merülnek fel, a válaszokat
+remélem megtalálja a [kérdések](/hu/questions) menüpontban.
