@@ -83,14 +83,14 @@ Unfortunately, that's not the case, or only in very rare cases and mainly for
 decorative items. In any case, a CAD model must be built or the scanned STL file
 must be corrected.
 
-## Does software automatically "create" a CAD model from a scanned file, making reverse modeling automatic?
+## Does software automatically "create" a CAD model from a scanned file, making reverse engineering automatic?
 
 This is only rarely a viable approach. The scan must be hole-free and have proper geometry – for example, it may work with fish lure figures or other bodies bounded by freeform surfaces. This is called auto meshing, but even then, directed mesh auto generation is preferable, which is already a "semi-automatic" method. Therefore, in most cases it is necessary to build a CAD model from the scanned mesh.
 
-## Why is reverse modeling relatively expensive?
+## Why is reverse engineering relatively expensive?
 
 Because relatively few people perform this work process and it requires
-significant expertise and – as the name suggests – reverse CAD modeling
+significant expertise and – as the name suggests – reverse CAD engineering
 thinking. Additionally, the designer must assess which parts are worn and need
 to be modeled correctly on the CAD model.
 
